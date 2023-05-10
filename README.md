@@ -1,4 +1,4 @@
-# Deloitte VisionAI
+# ML Proejct template
 
 _A logical, reasonably standardized, but flexible project structure for doing and sharing data science work._
 
@@ -23,7 +23,7 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/Deloitte/deloitte-visionai-project-template.git
+    cookiecutter [https://github.com/Deloitte/deloitte-visionai-project-template.git](https://github.com/M4sum/ml-project-template)
 
 A similar video to the installation is shown below
 
