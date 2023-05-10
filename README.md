@@ -23,7 +23,7 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter [https://github.com/Deloitte/deloitte-visionai-project-template.git](https://github.com/M4sum/ml-project-template)
+    cookiecutter https://github.com/Deloitte/deloitte-visionai-project-template.git
 
 A similar video to the installation is shown below
 
