@@ -23,7 +23,7 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/Deloitte/ml-project-template.git
+    cookiecutter https://github.com/m4sum/ml-project-template.git
 
 A similar video to the installation is shown below
 
